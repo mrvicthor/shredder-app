@@ -4,7 +4,7 @@ import { Button } from "./ui/button";
 
 const Offers = () => {
   return (
-    <section className="py-16 bg-slate-50">
+    <section id="about" className="py-16 bg-slate-50">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
